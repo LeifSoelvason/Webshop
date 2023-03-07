@@ -1,0 +1,17 @@
+C:\Users\LeifS\Desktop\Webshop\MyLibrary\bin\Release\MyLibrary.dll
+C:\Users\LeifS\Desktop\Webshop\MyLibrary\bin\Release\MyLibrary.pdb
+C:\Users\LeifS\Desktop\Webshop\MyLibrary\bin\Release\Dapper.dll
+C:\Users\LeifS\Desktop\Webshop\MyLibrary\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\LeifS\Desktop\Webshop\MyLibrary\bin\Release\System.Security.AccessControl.dll
+C:\Users\LeifS\Desktop\Webshop\MyLibrary\bin\Release\System.Security.Permissions.dll
+C:\Users\LeifS\Desktop\Webshop\MyLibrary\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\LeifS\Desktop\Webshop\MyLibrary\bin\Release\Dapper.xml
+C:\Users\LeifS\Desktop\Webshop\MyLibrary\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\LeifS\Desktop\Webshop\MyLibrary\bin\Release\System.Security.AccessControl.xml
+C:\Users\LeifS\Desktop\Webshop\MyLibrary\bin\Release\System.Security.Permissions.xml
+C:\Users\LeifS\Desktop\Webshop\MyLibrary\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\LeifS\Desktop\Webshop\MyLibrary\obj\Release\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\LeifS\Desktop\Webshop\MyLibrary\obj\Release\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LeifS\Desktop\Webshop\MyLibrary\obj\Release\MyLibrary.csproj.CopyComplete
+C:\Users\LeifS\Desktop\Webshop\MyLibrary\obj\Release\MyLibrary.dll
+C:\Users\LeifS\Desktop\Webshop\MyLibrary\obj\Release\MyLibrary.pdb
